@@ -1,0 +1,36 @@
+
+:root {
+  --blanco: #ffffff;
+  --primario: #FFC107;
+  --secundario: #0097A7;
+  --gris: #757575;
+  --oscuro: #212121;
+  --boton:#80a142;
+}
+#buttonmesa {
+  width: 150px;
+  height: 150px;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 35px;
+  border-radius: 5%;
+  border-color: var(--blanco);
+  
+}
+#example-select, select{
+  width: 385px;
+  align-content: center;
+  float:right;
+  border-top: 5rem;
+}
+.btn-primary{
+  background-color: var(--boton) !important;
+  border-color: #80a142;
+}
+.btn-primary:hover{
+  background-color: #80a142;
+  border-color: #80a142;
+}
+
+

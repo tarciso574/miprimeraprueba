@@ -1,0 +1,85 @@
+:root{
+    --primary: #111b54;
+    --ligth: #ffffff;
+    --grey: #efefef;
+    --black: #080707;
+    --oscuro:#23a587;
+    --verde: hwb(357 4% 18% / 0.904);
+}
+body{
+    overflow: hidden;
+    font-family: 'muli',sans-serif;
+    font-weight: 300;
+    color: var(--primary);  
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    
+    
+}
+
+.bg-primary{background-color: var(--ligth) !important;
+    box-sizing: border-box;
+}
+.menu:hover{
+    background-color: var(--verde)
+}
+
+.bg-light{background-color: var(--ligth)!important;}
+.btn-secondary{
+    background-color: var(--ligth)!important;
+    border-color: var(--ligth)!important;
+
+}
+.sidebar-line{
+ 
+}
+#siderbar-container{
+    min-height: 100vh;
+    width: 40vh;
+}
+
+
+#siderbar-container .logo{
+    padding: .875rem 1.25rem;
+}
+#siderbar-container .menu{
+    width: 18rem;
+    
+}
+.btn-search{
+    right: 5px;
+}
+.navbar{
+    padding: 8px;
+}
+.avatar{
+    max-width: 35px;
+}
+.btn-search{
+    right: 5px;
+}
+
+
+
+/* login */
+
+
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+.h-custom {
+height: calc(100% - 73px);
+}
+@media (max-width: 450px) {
+.h-custom {
+height: 100%;
+}
+}

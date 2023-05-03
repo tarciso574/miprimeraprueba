@@ -1,0 +1,235 @@
+element.style {
+}
+<style>
+.tw-pb-5 {
+    padding-bottom: 1.25rem!important;
+}
+<style>
+.tw-pt-4 {
+    padding-top: 1rem!important;
+}
+<style>
+.tw-px-5 {
+    padding-left: 1.25rem!important;
+    padding-right: 1.25rem!important;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
+<style>
+* {
+    --tw-ring-inset: var(--tw-empty,/*!*/ /*!*/);
+    --tw-ring-offset-width: 0px;
+    --tw-ring-offset-color: #fff;
+    --tw-ring-color: rgba(59,130,246,0.5);
+    --tw-ring-offset-shadow: 0 0 transparent;
+    --tw-ring-shadow: 0 0 transparent;
+}
+<style>
+* {
+    --tw-shadow: 0 0 transparent;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #e4e4e7;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+<style>
+.tw-proportional-nums {
+    --tw-numeric-spacing: proportional-nums!important;
+}
+<style>
+.tw-proportional-nums, .tw-tabular-nums {
+    --tw-ordinal: var(--tw-empty,/*!*/ /*!*/)!important;
+    --tw-slashed-zero: var(--tw-empty,/*!*/ /*!*/)!important;
+    --tw-numeric-figure: var(--tw-empty,/*!*/ /*!*/)!important;
+    --tw-numeric-spacing: var(--tw-empty,/*!*/ /*!*/)!important;
+    --tw-numeric-fraction: var(--tw-empty,/*!*/ /*!*/)!important;
+    font-feature-settings: var(--tw-ordinal) var(--tw-slashed-zero) var(--tw-numeric-figure) var(--tw-numeric-spacing) var(--tw-numeric-fraction)!important;
+    font-variant-numeric: var(--tw-ordinal) var(--tw-slashed-zero) var(--tw-numeric-figure) var(--tw-numeric-spacing) var(--tw-numeric-fraction)!important;
+}
+<style>
+.tw-text-black {
+    --tw-text-opacity: 1!important;
+    color: rgba(0,0,0,var(--tw-text-opacity))!important;
+}
+<style>
+.tw-font-vara {
+    font-family: proximavara,sans-serif!important;
+}
+<style>
+body {
+    font-feature-settings: "ss02","ss06"!important;
+}
+<style>
+body {
+    font-size: 80%;
+}
+<style>
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+<style>
+body {
+    font-family: inherit;
+    line-height: inherit;
+}
+<style>
+body {
+    margin: 0;
+    font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,"Segoe UI",Helvetica,Arial,"Apple Color Emoji","Segoe UI Emoji";
+}
+<style>
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+<style>
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #dd2246;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+<style>
+:root {
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+}
+<style>
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+<style>
+:root, :host {
+    --fa-font-solid: normal 900 1em/1 "Font Awesome 6 Solid";
+    --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Regular";
+    --fa-font-light: normal 300 1em/1 "Font Awesome 6 Light";
+    --fa-font-thin: normal 100 1em/1 "Font Awesome 6 Thin";
+    --fa-font-duotone: normal 900 1em/1 "Font Awesome 6 Duotone";
+    --fa-font-brands: normal 400 1em/1 "Font Awesome 6 Brands";
+}
+<style>
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+<style>
+html {
+    font-family: ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,"Noto Sans","Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    line-height: 1.5;
+}
+<style>
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+<style>
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #e4e4e7;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+    border: 0 solid #e4e4e7;
+}
+<style>
+*, :after, :before {
+    box-sizing: border-box;
+}
